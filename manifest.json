@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "matches": ["https://github.com/*/compare/last_release...*"],
-      "js": ["jquery-2.2.0.min.js", "compare.js"]
+      "js": ["jquery-2.2.0.min.js", "shipit.js"]
     }
   ]
 }
